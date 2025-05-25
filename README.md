@@ -32,7 +32,7 @@ The scatter plot below shows detected anomalies (red) vs. normal messages (blue)
 ![Anomaly Plot](output/anomaly_plot.png)
 
 ## Author
-[Your Name]
+[Mohsen Sheibani]
 
 ## Inspiration
 This project is based on the DDAO attack introduced in the paper: *A Lightweight Distributed Detection Algorithm for DDAO Attack on RPL Routing Protocol in Internet of Things* by Sheibani et al. (Pervasive and Mobile Computing, 2022).
